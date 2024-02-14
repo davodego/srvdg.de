@@ -15,7 +15,7 @@
 <div id="zentinh">
 
 <div id="kopf">
-<img align="right" hspace="10" vspace="10" src="logo2.png" width="90" height="90" alt="Logo">
+<img align="right" hspace=10 src="logo2.png" width="90" height="90" alt="Logo">
 <h1>Portal Familie von der G&ouml;nna</h1>
 <p id="untertitel">Zugang per DynDNS Dienst zu Privatem Server<br>Zugang Beschr&auml;ngt!</p><p>&nbsp;</p>
 </div>
